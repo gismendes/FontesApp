@@ -1,0 +1,23 @@
+body{
+    font-family: times, serif;
+    font-size: 16px;
+}
+h1{
+    font-size: 150%;
+    color: rgb(20, 100, 50);
+}
+h2{
+    color: blue;
+    border: 1px;
+}
+p{
+    font-family: arial, san-serif;
+}
+p.atencao{
+    color: yellow;
+}
+.container{
+    border: 5px solid green;
+    width: 80%;
+    margin: 5px auto;
+}
